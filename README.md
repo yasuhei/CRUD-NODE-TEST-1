@@ -1,6 +1,6 @@
 # CRUD-NODE-TEST-1
 ## Construção do CRUD.
-### para iniciar o projeto use node src/server.js
+### para iniciar o projeto use node src/index.js
 
 Nesse metodo eu utilizei o GET para solicitar todos os elementos que estão disponiveis.
 ![crud-get](https://github.com/yasuhei/CRUD-NODE-TEST-1/blob/main/1.jpeg)
